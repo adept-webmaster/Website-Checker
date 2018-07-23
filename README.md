@@ -12,10 +12,11 @@ It skips SSL verification so it is recommended to type the URL with the http://
 prefix.
 
 While I have tried not to use any junk frameworks, fonts and images, it does use:
-* PHP
-* cURL
-* JavaScript
-* pjax
+* PHP - Server requests
+* cURL - Retrieve URLs' HTTP status codes
+* JavaScript - Client side refreshes
+* jQuery - for pjax and easier element targeting
+* pjax - refresh only containers instead of whole page
 
 No external stylesheets.
 
