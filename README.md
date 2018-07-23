@@ -18,3 +18,12 @@ While I have tried not to use any junk frameworks, fonts and images, it does use
 * pjax
 
 No external stylesheets.
+
+## Usage
+1. Download and extract all of the files to whatever folder you would like.
+1. Change the URLs you would like to appear in `getURLs.php` along with the
+website title.
+1. Boot up a PHP server (the small built-in one is fine).
+1. Navigate to your servers address.
+1. Leave running and it will automatically refresh after the specified time
+thereon.
