@@ -23,6 +23,7 @@ No external stylesheets.
 1. Download and extract all of the files to whatever folder you would like.
 1. Change the URLs you would like to appear in `getURLs.php` along with the
 website title.
+  1. If you would like to change the refresh time, do so in index.js.
 1. Boot up a PHP server (the small built-in one is fine).
 1. Navigate to your servers address.
 1. Leave running and it will automatically refresh after the specified time
