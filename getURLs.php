@@ -7,8 +7,8 @@
 
   $hosts = array("RMSuppliers" => "https://www.rmsuppliers.com",
                  "Reprotec" => "https://www.reprotec.co.uk",
-                 "Reprotec Material Sales" => "https://www.reprotecuk.co.uk",
-                 "3ADVServices" => "http://3advservices.com");
+                 "3ADVServices" => "http://3advservices.com",
+                 "Prothorn Consultants" => "https://www.prothornconsultants.co.uk");
 
   /*Initializing CURL*/
   $curlHandle = curl_init();

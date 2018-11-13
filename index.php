@@ -5,7 +5,9 @@
 
     <style type="text/css">
       html, body {
-        font-family: sans-serif;
+        font-family: "Segoe UI";
+        background-color: rgb(31, 31, 31);
+        color: white;
       }
     </style>
 
